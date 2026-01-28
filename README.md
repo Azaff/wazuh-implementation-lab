@@ -1,0 +1,1 @@
+# wazuh-implementation-lab
